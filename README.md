@@ -1,1 +1,2 @@
-# Base data strucre problems in PY model code will support in framework pattern.
+# Base data strucre problems in PY model code will support in framework pattern with Blockchain algos.
+
